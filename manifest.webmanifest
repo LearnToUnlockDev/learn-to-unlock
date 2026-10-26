@@ -1,6 +1,6 @@
 {
-  "name": "Learn to Unlock",
-  "short_name": "Learn Unlock",
+  "name": "Learn to Unlock \u2014 V0.5.3",
+  "short_name": "Learn/Unlock",
   "description": "Daily learning with your own questions",
   "start_url": "./",
   "scope": "./",
